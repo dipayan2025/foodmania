@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const mongo_url = 'mongodb+srv://dipayan:1234@cluster0.ozz09qs.mongodb.net/gofoodmern?retryWrites=true&w=majority&appName=Cluster0';
+const mongo_url = '.';
 
 const mongo_db = async () => {
     try {
